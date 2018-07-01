@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Learing to edit and comminting files on github
+Learing to edit and committing files on github
